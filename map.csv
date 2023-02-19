@@ -1,0 +1,26 @@
+San Rafael,Oakland,18
+San Rafael,City1,12
+City1,Daly City,3
+City1,San Francisco,3
+San Francisco,Oakland,7
+Daly City,San Francisco,4
+Oakland,San Lorenzo,18
+Oakland,Dublin,31
+San Lorenzo,Hayward,3
+San Lorenzo,Dublin,12
+Hayward,Fremont,9
+Fremont,San Jose,24
+Dublin,San Jose,35
+San Jose,Cupertino,7
+San Jose,Mountain View,8
+Mountain View,Palo Alto,6
+Palo Alto,Fremont,9
+Cupertino,City3,14
+Palo Alto,Redwood City,6
+City3,Redwood City,5
+City3,City2,7
+City2,San Mateo,4
+San Mateo,San Francisco,21
+City2,Daly City,19
+Redwood City,San Mateo,6
+San Mateo,Hayward,13
