@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/DijkastraFromCSV.iml" filepath="$PROJECT_DIR$/DijkastraFromCSV.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DijkstraFromCSV.iml" filepath="$PROJECT_DIR$/DijkstraFromCSV.iml" />
     </modules>
   </component>
 </project>
